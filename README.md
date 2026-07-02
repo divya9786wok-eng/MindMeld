@@ -10,7 +10,6 @@ Welcome to **MindMeld**, an innovative web app designed to help users monitor an
 - [Features](#features)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-- [Credits](#credits)
 
 ---
 
