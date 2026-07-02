@@ -1,0 +1,86 @@
+Male 
+18-24:
+Metric,Value
+Mean Accuracy,89.77941176470588
+Std Accuracy,8.086563998450645
+Avg Z-Score Accuracy,-2.285753285992969e-16
+Mean Total Response Time (s),35.17794117647059
+Std Total Response Time (s),2.8786151484716362
+Avg Z-Score Total Response Time (s),-4.930696374070548e-16
+
+
+Male 
+25-34:
+Metric,Value
+Mean Accuracy,80.76271186440678
+Std Accuracy,8.146620351671361
+Avg Z-Score Accuracy,-3.2742170556741906e-16
+Mean Total Response Time (s),40.0313559322034
+Std Total Response Time (s),2.89937746540039
+Avg Z-Score Total Response Time (s),-2.3164144801924877e-15
+
+
+Male 
+35-44:
+Metric,Value
+Mean Accuracy,69.77272727272727
+Std Accuracy,8.56931710186328
+Avg Z-Score Accuracy,7.266914343001025e-16
+Mean Total Response Time (s),45.17045454545455
+Std Total Response Time (s),3.0713914188741693
+Avg Z-Score Total Response Time (s),-4.171747122833922e-16
+
+
+Male 
+45-54:
+Metric,Value
+Mean Accuracy,59.34959349593496
+Std Accuracy,7.936725113408638
+Avg Z-Score Accuracy,-2.4912321528174247e-16
+Mean Total Response Time (s),50.19837398373984
+Std Total Response Time (s),2.9767113337038915
+Avg Z-Score Total Response Time (s),-1.4252375251082295e-15
+
+
+Female 
+18-24:
+Metric,Value
+Mean Accuracy,89.12280701754386
+Std Accuracy,8.331024610935977
+Avg Z-Score Accuracy,-3.992907369265914e-16
+Mean Total Response Time (s),34.77456140350878
+Std Total Response Time (s),2.7980824073837267
+Avg Z-Score Total Response Time (s),-1.6711778160147093e-15
+
+
+Female 
+25-34:
+Metric,Value
+Mean Accuracy,80.55555555555556
+Std Accuracy,7.708020514173115
+Avg Z-Score Accuracy,-1.881211236170404e-16
+Mean Total Response Time (s),39.640972222222224
+Std Total Response Time (s),2.652368260275576
+Avg Z-Score Total Response Time (s),-7.339807773910757e-16
+
+
+Female 
+35-44:
+Metric,Value
+Mean Accuracy,69.75206611570248
+Std Accuracy,7.973386509218074
+Avg Z-Score Accuracy,3.5594805340125756e-16
+Mean Total Response Time (s),45.32231404958678
+Std Total Response Time (s),2.852648113024941
+Avg Z-Score Total Response Time (s),-8.358786573830724e-16
+
+
+Female 
+45-54:
+Metric,Value
+Mean Accuracy,58.392857142857146
+Std Accuracy,8.297328682492102
+Avg Z-Score Accuracy,-3.9650822308041307e-16
+Mean Total Response Time (s),50.04196428571428
+Std Total Response Time (s),2.599128919769397
+Avg Z-Score Total Response Time (s),2.6367796834847468e-15

@@ -1,0 +1,86 @@
+Male 
+18-24:
+Metric,Value
+Mean Accuracy,88.27272727272727
+Std Accuracy,2.106821994322998
+Avg Z-Score Accuracy,3.093485064069186e-15
+Mean Reaction Time,550.7818181818182
+Std Reaction Time,14.448505092783133
+Avg Z-Score Reaction Time,2.034736016040287e-15
+
+
+Male 
+25-34:
+Metric,Value
+Mean Accuracy,84.9020979020979
+Std Accuracy,1.7853657269814704
+Avg Z-Score Accuracy,-2.7266456381003845e-15
+Mean Reaction Time,568.034965034965
+Std Reaction Time,13.758691279994817
+Avg Z-Score Reaction Time,1.6831912709002374e-15
+
+
+Male 
+35-44:
+Metric,Value
+Mean Accuracy,82.15384615384616
+Std Accuracy,2.0133721123949213
+Avg Z-Score Accuracy,-3.2691797986654608e-15
+Mean Reaction Time,590.0230769230769
+Std Reaction Time,14.664974559515823
+Avg Z-Score Reaction Time,-3.6210350957005105e-16
+
+
+Male 
+45-54:
+Metric,Value
+Mean Accuracy,79.01923076923077
+Std Accuracy,1.6249317788862256
+Avg Z-Score Accuracy,-2.6773455247691277e-15
+Mean Reaction Time,609.9326923076923
+Std Reaction Time,15.704964537613806
+Avg Z-Score Reaction Time,2.8353388013504e-15
+
+
+Female 
+18-24:
+Metric,Value
+Mean Accuracy,87.72972972972973
+Std Accuracy,2.1494963643455227
+Avg Z-Score Accuracy,1.602321878783334e-15
+Mean Reaction Time,552.7027027027027
+Std Reaction Time,15.413334389399603
+Avg Z-Score Reaction Time,-4.200843876960052e-16
+
+
+Female 
+25-34:
+Metric,Value
+Mean Accuracy,84.7751937984496
+Std Accuracy,1.9694554691490844
+Avg Z-Score Accuracy,2.9055139001042857e-15
+Mean Reaction Time,571.922480620155
+Std Reaction Time,14.231683624871993
+Avg Z-Score Reaction Time,-1.2462038291916486e-15
+
+
+Female 
+35-44:
+Metric,Value
+Mean Accuracy,82.0
+Std Accuracy,2.1392934760281435
+Avg Z-Score Accuracy,-1.586032892321652e-17
+Mean Reaction Time,590.3839285714286
+Std Reaction Time,16.042873602827314
+Avg Z-Score Reaction Time,1.0467817089322905e-15
+
+
+Female 
+45-54:
+Metric,Value
+Mean Accuracy,79.0725806451613
+Std Accuracy,2.0842942971233023
+Avg Z-Score Accuracy,-2.4254791723464106e-15
+Mean Reaction Time,609.0483870967741
+Std Reaction Time,16.364176042196405
+Avg Z-Score Reaction Time,2.6878141289715485e-15

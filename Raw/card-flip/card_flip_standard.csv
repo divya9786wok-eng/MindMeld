@@ -1,0 +1,86 @@
+Male 
+18-24:
+Metric,Value
+Mean Accuracy,97.4615873015873
+Std Accuracy,3.4477350312274653
+Avg Z-Score Accuracy,-1.7710700630925117e-16
+Mean Total Attempts,20.00793650793651
+Std Total Attempts,1.3303301401092302
+Avg Z-Score Total Attempts,-1.302309230473001e-15
+
+
+Male 
+25-34:
+Metric,Value
+Mean Accuracy,91.30195652173913
+Std Accuracy,5.773272231497421
+Avg Z-Score Accuracy,-3.732923792942555e-16
+Mean Total Attempts,21.992753623188406
+Std Total Attempts,1.3804870848625783
+Avg Z-Score Total Attempts,-3.1858573750113186e-16
+
+
+Male 
+35-44:
+Metric,Value
+Mean Accuracy,76.73358108108108
+Std Accuracy,4.024603389916645
+Avg Z-Score Accuracy,-6.00120553851436e-16
+Mean Total Attempts,26.135135135135137
+Std Total Attempts,1.3638610169773118
+Avg Z-Score Total Attempts,-1.2602531630880155e-15
+
+
+Male 
+45-54:
+Metric,Value
+Mean Accuracy,67.38529411764706
+Std Accuracy,3.376262122806551
+Avg Z-Score Accuracy,-1.0374521036833396e-15
+Mean Total Attempts,29.756302521008404
+Std Total Attempts,1.5005118821525671
+Avg Z-Score Total Attempts,-5.485807886383127e-16
+
+
+Female 
+18-24:
+Metric,Value
+Mean Accuracy,97.74787610619468
+Std Accuracy,3.4013847912173465
+Avg Z-Score Accuracy,2.1890061051901316e-15
+Mean Total Attempts,19.902654867256636
+Std Total Attempts,1.3100334506970943
+Avg Z-Score Total Attempts,6.179914004329411e-16
+
+
+Female 
+25-34:
+Metric,Value
+Mean Accuracy,90.8011570247934
+Std Accuracy,6.074890631275166
+Avg Z-Score Accuracy,-1.939678904179819e-15
+Mean Total Attempts,22.123966942148762
+Std Total Attempts,1.463440121987475
+Avg Z-Score Total Attempts,-1.0955423895887909e-15
+
+
+Female 
+35-44:
+Metric,Value
+Mean Accuracy,77.12073770491803
+Std Accuracy,4.390957206976215
+Avg Z-Score Accuracy,1.088382571681711e-15
+Mean Total Attempts,26.016393442622952
+Std Total Attempts,1.470940407109845
+Avg Z-Score Total Attempts,-1.0428816280495323e-15
+
+
+Female 
+45-54:
+Metric,Value
+Mean Accuracy,65.80469026548671
+Std Accuracy,2.877120017366329
+Avg Z-Score Accuracy,4.627566766357953e-15
+Mean Total Attempts,30.451327433628318
+Std Total Attempts,1.3102127804121593
+Avg Z-Score Total Attempts,3.1439944060181424e-16

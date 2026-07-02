@@ -1,0 +1,110 @@
+Male 
+18-24:
+Metric,Value
+Mean Accuracy,70.6231818181818
+Std Accuracy,16.023759882909005
+Avg Z-Score Accuracy,8.276208001751166e-16
+Mean Total Moves,10.416666666666666
+Std Total Moves,2.266493977378927
+Avg Z-Score Total Moves,2.7587360005837223e-16
+Mean Total Time (s),76.27954545454544
+Std Total Time (s),8.349312606766478
+Avg Z-Score Total Time (s),1.540854985691884e-15
+
+
+Male 
+25-34:
+Metric,Value
+Mean Accuracy,59.92328244274809
+Std Accuracy,13.688468119354235
+Avg Z-Score Accuracy,1.762796863526966e-16
+Mean Total Moves,12.267175572519085
+Std Total Moves,2.61184742748145
+Avg Z-Score Total Moves,-2.5424954762408163e-16
+Mean Total Time (s),84.6526717557252
+Std Total Time (s),8.22646379692875
+Avg Z-Score Total Time (s),-4.288342369926177e-16
+
+
+Male 
+35-44:
+Metric,Value
+Mean Accuracy,54.95442748091603
+Std Accuracy,12.019923165998055
+Avg Z-Score Accuracy,-4.745991555649524e-17
+Mean Total Moves,13.351145038167939
+Std Total Moves,2.860426659367518
+Avg Z-Score Total Moves,5.932489444561905e-17
+Mean Total Time (s),94.23282442748092
+Std Total Time (s),8.43640278925855
+Avg Z-Score Total Time (s),-5.152790831848054e-16
+
+
+Male 
+45-54:
+Metric,Value
+Mean Accuracy,47.6321052631579
+Std Accuracy,10.096351301482866
+Avg Z-Score Accuracy,-1.3342153892425126e-16
+Mean Total Moves,15.31578947368421
+Std Total Moves,2.9774467734977237
+Avg Z-Score Total Moves,-3.311191476952221e-17
+Mean Total Time (s),105.72543859649122
+Std Total Time (s),8.397533173743605
+Avg Z-Score Total Time (s),1.3692750637043598e-15
+
+
+Female 
+18-24:
+Metric,Value
+Mean Accuracy,69.72271028037383
+Std Accuracy,15.715976903697648
+Avg Z-Score Accuracy,2.736647876120421e-17
+Mean Total Moves,10.542056074766355
+Std Total Moves,2.2724698319323267
+Avg Z-Score Total Moves,-1.6212368934362684e-16
+Mean Total Time (s),74.27570093457943
+Std Total Time (s),8.881839511431265
+Avg Z-Score Total Time (s),6.22554967079527e-16
+
+
+Female 
+25-34:
+Metric,Value
+Mean Accuracy,59.07379032258065
+Std Accuracy,12.854282617135686
+Avg Z-Score Accuracy,-2.8292780304963666e-16
+Mean Total Moves,12.362903225806452
+Std Total Moves,2.404078112557892
+Avg Z-Score Total Moves,-1.5937072450264345e-16
+Mean Total Time (s),84.11854838709675
+Std Total Time (s),8.68220619108029
+Avg Z-Score Total Time (s),2.5051645345977324e-15
+
+
+Female 
+35-44:
+Metric,Value
+Mean Accuracy,55.00774193548388
+Std Accuracy,13.14035282328825
+Avg Z-Score Accuracy,-5.175071840591455e-16
+Mean Total Moves,13.42741935483871
+Std Total Moves,2.9923919310983997
+Avg Z-Score Total Moves,-5.19297866356928e-17
+Mean Total Time (s),94.00080645161287
+Std Total Time (s),8.40500519053151
+Avg Z-Score Total Time (s),3.4560168347202453e-15
+
+
+Female 
+45-54:
+Metric,Value
+Mean Accuracy,48.929124087591234
+Std Accuracy,11.003652776022115
+Avg Z-Score Accuracy,7.066529032650632e-16
+Mean Total Moves,15.014598540145986
+Std Total Moves,3.2058008586622044
+Avg Z-Score Total Moves,-1.7504246227666702e-16
+Mean Total Time (s),105.41094890510948
+Std Total Time (s),8.648890725313345
+Avg Z-Score Total Time (s),1.2058480734614838e-15

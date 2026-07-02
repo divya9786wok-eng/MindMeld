@@ -1,0 +1,86 @@
+Male 
+18-24:
+Metric,Value
+Mean Accuracy,92.15062499999999
+Std Accuracy,4.30871154117902
+Avg Z-Score Accuracy,2.2283762137119215e-15
+Mean Tiles Selected,30.125
+Std Tiles Selected,3.235199817189482
+Avg Z-Score Tiles Selected,-3.172065784643304e-17
+
+
+Male 
+25-34:
+Metric,Value
+Mean Accuracy,82.68672566371681
+Std Accuracy,4.454990726821666
+Avg Z-Score Accuracy,1.1789979022568035e-16
+Mean Tiles Selected,25.292035398230087
+Std Tiles Selected,3.2930106082434056
+Avg Z-Score Tiles Selected,3.1046944759429155e-16
+
+
+Male 
+35-44:
+Metric,Value
+Mean Accuracy,72.16588235294118
+Std Accuracy,4.240983943578256
+Avg Z-Score Accuracy,-1.2865525638303284e-15
+Mean Tiles Selected,20.25
+Std Tiles Selected,2.974771370354763
+Avg Z-Score Tiles Selected,-1.959217102279688e-17
+
+
+Male 
+45-54:
+Metric,Value
+Mean Accuracy,62.2817094017094
+Std Accuracy,4.2381977484384645
+Avg Z-Score Accuracy,5.266442552709076e-16
+Mean Tiles Selected,14.760683760683762
+Std Tiles Selected,3.1559185278922444
+Avg Z-Score Tiles Selected,-2.7043894189587144e-16
+
+
+Female 
+18-24:
+Metric,Value
+Mean Accuracy,92.60092857142858
+Std Accuracy,4.108698594172503
+Avg Z-Score Accuracy,-2.7200464103316335e-15
+Mean Tiles Selected,30.214285714285715
+Std Tiles Selected,3.2858695615483895
+Avg Z-Score Tiles Selected,-3.108624468950438e-16
+
+
+Female 
+25-34:
+Metric,Value
+Mean Accuracy,82.43180451127819
+Std Accuracy,4.432837960363179
+Avg Z-Score Accuracy,1.8615017630933075e-15
+Mean Tiles Selected,25.383458646616543
+Std Tiles Selected,3.3034996355796475
+Avg Z-Score Tiles Selected,-4.0068199384968053e-16
+
+
+Female 
+35-44:
+Metric,Value
+Mean Accuracy,72.13495798319329
+Std Accuracy,4.1632881062181415
+Avg Z-Score Accuracy,-2.7167810484945005e-15
+Mean Tiles Selected,19.48739495798319
+Std Tiles Selected,3.0372077684745475
+Avg Z-Score Tiles Selected,5.747036833353752e-16
+
+
+Female 
+45-54:
+Metric,Value
+Mean Accuracy,62.83846153846154
+Std Accuracy,4.366980379293694
+Avg Z-Score Accuracy,3.6210350957005105e-16
+Mean Tiles Selected,15.084615384615384
+Std Tiles Selected,3.30973997441262
+Avg Z-Score Tiles Selected,1.0248212535001446e-16

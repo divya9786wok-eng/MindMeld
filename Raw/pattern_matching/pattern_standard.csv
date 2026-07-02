@@ -1,0 +1,111 @@
+Male 
+18-24:
+Metric,Value
+Mean Accuracy,98.35820895522389
+Std Accuracy,5.490022136641649
+Avg Z-Score Accuracy,-1.1798190948255395e-15
+Mean Total Time (s),55.0620895522388
+Std Total Time (s),2.81763134210991
+Avg Z-Score Total Time (s),1.3123830380643642e-15
+Mean Avg Time per Pattern (s),11.012537313432837
+Std Avg Time per Pattern (s),0.5631795219828595
+Avg Z-Score Avg Time per Pattern (s),-2.2005614577644894e-15
+
+
+Male 
+25-34:
+Metric,Value
+Mean Accuracy,97.66666666666667
+Std Accuracy,6.4204534280860734
+Avg Z-Score Accuracy,-7.697546304067752e-16
+Mean Total Time (s),60.043
+Std Total Time (s),2.8967779802164104
+Avg Z-Score Total Time (s),2.9605947323337506e-16
+Mean Avg Time per Pattern (s),12.008750000000001
+Std Avg Time per Pattern (s),0.5791985302985497
+Avg Z-Score Avg Time per Pattern (s),-1.6283271027835629e-15
+
+
+Male 
+35-44:
+Metric,Value
+Mean Accuracy,75.34482758620689
+Std Accuracy,8.451793778466307
+Avg Z-Score Accuracy,8.058687816675705e-16
+Mean Total Time (s),67.86689655172414
+Std Total Time (s),4.418833598203127
+Avg Z-Score Total Time (s),-1.339924340064844e-16
+Mean Avg Time per Pattern (s),13.573879310344825
+Std Avg Time per Pattern (s),0.8836306097004134
+Avg Z-Score Avg Time per Pattern (s),2.643479305185071e-15
+
+
+Male 
+45-54:
+Metric,Value
+Mean Accuracy,71.80952380952381
+Std Accuracy,9.834918585467113
+Avg Z-Score Accuracy,-6.767073673905717e-17
+Mean Total Time (s),77.31857142857143
+Std Total Time (s),4.311382813982943
+Avg Z-Score Total Time (s),-6.206675385285399e-16
+Mean Avg Time per Pattern (s),15.463809523809525
+Std Avg Time per Pattern (s),0.8622168337957254
+Avg Z-Score Avg Time per Pattern (s),-1.6114094185987986e-15
+
+
+Female 
+18-24:
+Metric,Value
+Mean Accuracy,98.05970149253731
+Std Accuracy,5.919561795537892
+Avg Z-Score Accuracy,-1.98845914858237e-16
+Mean Total Time (s),55.173507462686565
+Std Total Time (s),2.796613158874868
+Avg Z-Score Total Time (s),6.197364346415053e-16
+Mean Avg Time per Pattern (s),11.034776119402984
+Std Avg Time per Pattern (s),0.5596530327280085
+Avg Z-Score Avg Time per Pattern (s),1.3786650096837765e-15
+
+
+Female 
+25-34:
+Metric,Value
+Mean Accuracy,97.26618705035972
+Std Accuracy,6.870409430971695
+Avg Z-Score Accuracy,-9.233221701199143e-16
+Mean Total Time (s),60.025683453237406
+Std Total Time (s),2.8571047503503273
+Avg Z-Score Total Time (s),1.5910534280959078e-15
+Mean Avg Time per Pattern (s),12.005179856115106
+Std Avg Time per Pattern (s),0.5712215265551356
+Avg Z-Score Avg Time per Pattern (s),3.3738000402997562e-15
+
+
+Female 
+35-44:
+Metric,Value
+Mean Accuracy,74.65517241379311
+Std Accuracy,8.850388115662483
+Avg Z-Score Accuracy,-7.87684094195262e-16
+Mean Total Time (s),67.38474137931034
+Std Total Time (s),4.06459682464429
+Avg Z-Score Total Time (s),8.755568109611216e-16
+Mean Avg Time per Pattern (s),13.476810344827587
+Std Avg Time per Pattern (s),0.8126771415788123
+Avg Z-Score Avg Time per Pattern (s),-1.466080609403985e-15
+
+
+Female 
+45-54:
+Metric,Value
+Mean Accuracy,73.52941176470588
+Std Accuracy,9.35645512975698
+Avg Z-Score Accuracy,-1.0449157878825003e-16
+Mean Total Time (s),78.12235294117647
+Std Total Time (s),4.04546718659112
+Avg Z-Score Total Time (s),-5.355193412897814e-16
+Mean Avg Time per Pattern (s),15.624485294117646
+Std Avg Time per Pattern (s),0.8090452069214431
+Avg Z-Score Avg Time per Pattern (s),1.782887563074516e-15
+

@@ -1,0 +1,86 @@
+Male 
+18-24:
+Metric,Value
+Mean Correct Answers,5.458333333333333
+Std Correct Answers,0.4982608642958916
+Avg Z-Score Correct Answers,6.5379800339037e-16
+Mean Accuracy,90.97041666666668
+Std Accuracy,8.306008607812513
+Avg Z-Score Accuracy,-1.615991291398839e-15
+
+
+Male 
+25-34:
+Metric,Value
+Mean Correct Answers,4.976190476190476
+Std Correct Answers,0.8587947046129254
+Avg Z-Score Correct Answers,-1.1278456123176193e-16
+Mean Accuracy,82.93690476190477
+Std Accuracy,14.311777615472481
+Avg Z-Score Accuracy,-6.273641218516758e-16
+
+
+Male 
+35-44:
+Metric,Value
+Mean Correct Answers,4.0310077519379846
+Std Correct Answers,0.8346933196835851
+Avg Z-Score Correct Answers,-1.2393187251629654e-16
+Mean Accuracy,67.18325581395348
+Std Accuracy,13.910108206980563
+Avg Z-Score Accuracy,6.592487107464108e-16
+
+
+Male 
+45-54:
+Metric,Value
+Mean Correct Answers,2.8852459016393444
+Std Correct Answers,0.7913126810588308
+Avg Z-Score Correct Answers,-1.4924309511354563e-16
+Mean Accuracy,48.08704918032786
+Std Accuracy,13.19118239325071
+Avg Z-Score Accuracy,7.170948716431339e-16
+
+
+Female 
+18-24:
+Metric,Value
+Mean Correct Answers,5.46875
+Std Correct Answers,0.4990224819584785
+Avg Z-Score Correct Answers,8.326672684688674e-17
+Mean Accuracy,91.14406249999999
+Std Accuracy,8.318704774247838
+Avg Z-Score Accuracy,1.1102230246251565e-15
+
+
+Female 
+25-34:
+Metric,Value
+Mean Correct Answers,4.954954954954955
+Std Correct Answers,0.8207597819048917
+Avg Z-Score Correct Answers,4.000803692342906e-17
+Mean Accuracy,82.5827027027027
+Std Accuracy,13.677872967373771
+Avg Z-Score Accuracy,-1.0002009230857266e-16
+
+
+Female 
+35-44:
+Metric,Value
+Mean Correct Answers,3.926829268292683
+Std Correct Answers,0.7878212387236191
+Avg Z-Score Correct Answers,3.429957311850077e-17
+Mean Accuracy,65.44747967479674
+Std Accuracy,13.12921483813282
+Avg Z-Score Accuracy,6.661338147750939e-16
+
+
+Female 
+45-54:
+Metric,Value
+Mean Correct Answers,2.9145299145299144
+Std Correct Answers,0.734645092203224
+Avg Z-Score Correct Answers,1.7459917652224684e-16
+Mean Accuracy,48.575213675213675
+Std Accuracy,12.246533687027746
+Avg Z-Score Accuracy,4.9343245538895844e-17

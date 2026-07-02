@@ -1,0 +1,650 @@
+[
+    {
+        "age-group": "0-6",
+        "gender": "Male",
+        "cumulativeScore": "0",
+        "category": "memory",
+        "activityName": "Spatial Play",
+        "activityDescSmall": "Engage in spatial play",
+        "activityDescLarge": "Encourage building blocks and simple puzzles to enhance spatial memory in young boys."
+    },
+    {
+        "age-group": "0-6",
+        "gender": "Female",
+        "cumulativeScore": "0",
+        "category": "memory",
+        "activityName": "Storytelling",
+        "activityDescSmall": "Participate in storytelling",
+        "activityDescLarge": "Use stories and read-aloud sessions to improve verbal memory in young girls."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Male",
+        "cumulativeScore": "1",
+        "category": "memory",
+        "activityName": "Map Activities",
+        "activityDescSmall": "Explore simple maps",
+        "activityDescLarge": "Introduce basic map-reading activities to develop spatial awareness."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Female",
+        "cumulativeScore": "1",
+        "category": "memory",
+        "activityName": "Reading Games",
+        "activityDescSmall": "Play reading games",
+        "activityDescLarge": "Engage in reading activities and memory games to strengthen memory."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Male",
+        "cumulativeScore": "2",
+        "category": "memory",
+        "activityName": "Strategy Games",
+        "activityDescSmall": "Play strategy-based games",
+        "activityDescLarge": "Participate in games like chess to enhance strategic planning and memory."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Female",
+        "cumulativeScore": "2",
+        "category": "memory",
+        "activityName": "Journaling",
+        "activityDescSmall": "Start journaling",
+        "activityDescLarge": "Encourage journaling to improve episodic and verbal memory."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Male",
+        "cumulativeScore": "3",
+        "category": "memory",
+        "activityName": "Physical Exercise",
+        "activityDescSmall": "Engage in exercise",
+        "activityDescLarge": "Regular aerobic exercise to boost hippocampal function and memory."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Female",
+        "cumulativeScore": "3",
+        "category": "memory",
+        "activityName": "Mind Mapping",
+        "activityDescSmall": "Use mind maps",
+        "activityDescLarge": "Implement mind mapping techniques to strengthen associative memory."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Male",
+        "cumulativeScore": "4",
+        "category": "memory",
+        "activityName": "Learning Skills",
+        "activityDescSmall": "Learn new skills",
+        "activityDescLarge": "Take up new challenges like learning an instrument to enhance memory."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Female",
+        "cumulativeScore": "4",
+        "category": "memory",
+        "activityName": "Language Learning",
+        "activityDescSmall": "Learn languages",
+        "activityDescLarge": "Engage in language learning to stimulate memory and cognition."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Male",
+        "cumulativeScore": "5",
+        "category": "memory",
+        "activityName": "Meditation",
+        "activityDescSmall": "Practice meditation",
+        "activityDescLarge": "Incorporate meditation to improve memory and cognitive functions."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Female",
+        "cumulativeScore": "5",
+        "category": "memory",
+        "activityName": "Brain Apps",
+        "activityDescSmall": "Use brain-training apps",
+        "activityDescLarge": "Utilize apps to maintain neuroplasticity and cognitive health."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Male",
+        "cumulativeScore": "6",
+        "category": "memory",
+        "activityName": "Social Engagement",
+        "activityDescSmall": "Be socially active",
+        "activityDescLarge": "Engage in group activities to enhance memory through social interaction."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Female",
+        "cumulativeScore": "6",
+        "category": "memory",
+        "activityName": "Volunteer Work",
+        "activityDescSmall": "Volunteer",
+        "activityDescLarge": "Participate in community service to keep the mind active."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Male",
+        "cumulativeScore": "7",
+        "category": "memory",
+        "activityName": "Puzzles",
+        "activityDescSmall": "Solve puzzles",
+        "activityDescLarge": "Engage in puzzles and brainteasers to maintain memory function."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Female",
+        "cumulativeScore": "7",
+        "category": "memory",
+        "activityName": "Creative Arts",
+        "activityDescSmall": "Explore arts",
+        "activityDescLarge": "Take up painting or crafts to stimulate memory and creativity."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Male",
+        "cumulativeScore": "8",
+        "category": "memory",
+        "activityName": "Continuous Learning",
+        "activityDescSmall": "Learn new hobbies",
+        "activityDescLarge": "Continue learning to promote neuroplasticity and memory."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Female",
+        "cumulativeScore": "8",
+        "category": "memory",
+        "activityName": "Music Activities",
+        "activityDescSmall": "Enjoy music",
+        "activityDescLarge": "Participate in music activities to enhance mood and memory."
+    },
+    {
+        "age-group": "0-6",
+        "gender": "Male",
+        "cumulativeScore": "0",
+        "category": "focus",
+        "activityName": "Interactive Play",
+        "activityDescSmall": "Participate in active play",
+        "activityDescLarge": "Use hands-on activities to improve focus in young boys."
+    },
+    {
+        "age-group": "0-6",
+        "gender": "Female",
+        "cumulativeScore": "0",
+        "category": "focus",
+        "activityName": "Structured Play",
+        "activityDescSmall": "Engage in structured play",
+        "activityDescLarge": "Provide organized yet diverse play to maintain interest for young girls."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Male",
+        "cumulativeScore": "1",
+        "category": "focus",
+        "activityName": "Focus Games",
+        "activityDescSmall": "Play focus games",
+        "activityDescLarge": "Use games like Simon Says to enhance attention spans."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Female",
+        "cumulativeScore": "1",
+        "category": "focus",
+        "activityName": "Group Activities",
+        "activityDescSmall": "Work in groups",
+        "activityDescLarge": "Encourage collaborative play to maintain focus."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Male",
+        "cumulativeScore": "2",
+        "category": "focus",
+        "activityName": "Limit Distractions",
+        "activityDescSmall": "Minimize distractions",
+        "activityDescLarge": "Create quiet environments for tasks requiring concentration."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Female",
+        "cumulativeScore": "2",
+        "category": "focus",
+        "activityName": "Mindfulness",
+        "activityDescSmall": "Practice mindfulness",
+        "activityDescLarge": "Incorporate mindfulness exercises to enhance focus."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Male",
+        "cumulativeScore": "3",
+        "category": "focus",
+        "activityName": "Monotasking",
+        "activityDescSmall": "Focus on single tasks",
+        "activityDescLarge": "Emphasize completing one task at a time to improve concentration."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Female",
+        "cumulativeScore": "3",
+        "category": "focus",
+        "activityName": "Meditation",
+        "activityDescSmall": "Engage in meditation",
+        "activityDescLarge": "Use meditation techniques to enhance focus and manage multitasking."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Male",
+        "cumulativeScore": "4",
+        "category": "focus",
+        "activityName": "Time Blocking",
+        "activityDescSmall": "Use time blocking",
+        "activityDescLarge": "Implement scheduling techniques to increase productivity and focus."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Female",
+        "cumulativeScore": "4",
+        "category": "focus",
+        "activityName": "Focus Apps",
+        "activityDescSmall": "Utilize focus apps",
+        "activityDescLarge": "Use apps designed to improve concentration and mindfulness."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Male",
+        "cumulativeScore": "5",
+        "category": "focus",
+        "activityName": "Time Management",
+        "activityDescSmall": "Schedule effectively",
+        "activityDescLarge": "Develop time management strategies to enhance focus."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Female",
+        "cumulativeScore": "5",
+        "category": "focus",
+        "activityName": "Yoga",
+        "activityDescSmall": "Practice yoga",
+        "activityDescLarge": "Engage in yoga to improve focus and reduce stress."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Male",
+        "cumulativeScore": "6",
+        "category": "focus",
+        "activityName": "Regular Exercise",
+        "activityDescSmall": "Exercise regularly",
+        "activityDescLarge": "Use physical activity to boost focus and cognitive function."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Female",
+        "cumulativeScore": "6",
+        "category": "focus",
+        "activityName": "Cognitive Therapy",
+        "activityDescSmall": "Consider CBT",
+        "activityDescLarge": "Utilize cognitive-behavioral techniques to enhance focus."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Male",
+        "cumulativeScore": "7",
+        "category": "focus",
+        "activityName": "Challenging Puzzles",
+        "activityDescSmall": "Solve challenging puzzles",
+        "activityDescLarge": "Engage in complex puzzles to maintain focus."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Female",
+        "cumulativeScore": "7",
+        "category": "focus",
+        "activityName": "Concentration Hobbies",
+        "activityDescSmall": "Pursue focused hobbies",
+        "activityDescLarge": "Participate in hobbies that require concentration."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Male",
+        "cumulativeScore": "8",
+        "category": "focus",
+        "activityName": "Morning Productivity",
+        "activityDescSmall": "Optimize mornings",
+        "activityDescLarge": "Perform important tasks in the morning when focus peaks."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Female",
+        "cumulativeScore": "8",
+        "category": "focus",
+        "activityName": "Social Interaction",
+        "activityDescSmall": "Engage socially",
+        "activityDescLarge": "Participate in social activities to enhance focus."
+    },
+    {
+        "age-group": "0-6",
+        "gender": "Male",
+        "cumulativeScore": "0",
+        "category": "attention",
+        "activityName": "Active Play",
+        "activityDescSmall": "Join physical play",
+        "activityDescLarge": "Encourage active play to improve attention in young boys."
+    },
+    {
+        "age-group": "0-6",
+        "gender": "Female",
+        "cumulativeScore": "0",
+        "category": "attention",
+        "activityName": "Interactive Reading",
+        "activityDescSmall": "Read with interaction",
+        "activityDescLarge": "Use interactive books to engage young girls."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Male",
+        "cumulativeScore": "1",
+        "category": "attention",
+        "activityName": "Team Sports",
+        "activityDescSmall": "Join sports teams",
+        "activityDescLarge": "Participate in sports to channel energy and enhance attention."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Female",
+        "cumulativeScore": "1",
+        "category": "attention",
+        "activityName": "Music Lessons",
+        "activityDescSmall": "Learn instruments",
+        "activityDescLarge": "Start music lessons to improve attention spans."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Male",
+        "cumulativeScore": "2",
+        "category": "attention",
+        "activityName": "Screen Time Management",
+        "activityDescSmall": "Limit screen usage",
+        "activityDescLarge": "Reduce screen time to prevent attention decline."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Female",
+        "cumulativeScore": "2",
+        "category": "attention",
+        "activityName": "Group Discussions",
+        "activityDescSmall": "Participate in discussions",
+        "activityDescLarge": "Engage in group discussions to improve attention."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Male",
+        "cumulativeScore": "3",
+        "category": "attention",
+        "activityName": "Stress Reduction",
+        "activityDescSmall": "Manage stress",
+        "activityDescLarge": "Employ stress-reduction techniques to enhance attention."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Female",
+        "cumulativeScore": "3",
+        "category": "attention",
+        "activityName": "Mindfulness Practices",
+        "activityDescSmall": "Practice mindfulness",
+        "activityDescLarge": "Use mindfulness to improve attentiveness."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Male",
+        "cumulativeScore": "4",
+        "category": "attention",
+        "activityName": "Regular Exercise",
+        "activityDescSmall": "Maintain fitness",
+        "activityDescLarge": "Regular physical activity to support attention."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Female",
+        "cumulativeScore": "4",
+        "category": "attention",
+        "activityName": "Healthy Lifestyle",
+        "activityDescSmall": "Adopt healthy habits",
+        "activityDescLarge": "Maintain a healthy lifestyle to support cognitive functions."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Male",
+        "cumulativeScore": "5",
+        "category": "attention",
+        "activityName": "Brain Exercises",
+        "activityDescSmall": "Engage in cognitive tasks",
+        "activityDescLarge": "Perform brain exercises to improve attention."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Female",
+        "cumulativeScore": "5",
+        "category": "attention",
+        "activityName": "Meditation",
+        "activityDescSmall": "Practice meditation",
+        "activityDescLarge": "Use meditation to enhance attention and reduce stress."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Male",
+        "cumulativeScore": "6",
+        "category": "attention",
+        "activityName": "Relaxation Techniques",
+        "activityDescSmall": "Use relaxation methods",
+        "activityDescLarge": "Practice deep breathing to improve attention."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Female",
+        "cumulativeScore": "6",
+        "category": "attention",
+        "activityName": "Organized Spaces",
+        "activityDescSmall": "Maintain organization",
+        "activityDescLarge": "Keep environments clutter-free to support attention."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Male",
+        "cumulativeScore": "7",
+        "category": "attention",
+        "activityName": "Mind Games",
+        "activityDescSmall": "Play strategic games",
+        "activityDescLarge": "Engage in games that require sustained attention."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Female",
+        "cumulativeScore": "7",
+        "category": "attention",
+        "activityName": "Creative Pursuits",
+        "activityDescSmall": "Engage in creativity",
+        "activityDescLarge": "Participate in creative activities to enhance attention."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Male",
+        "cumulativeScore": "8",
+        "category": "attention",
+        "activityName": "Routine Establishment",
+        "activityDescSmall": "Set routines",
+        "activityDescLarge": "Establish consistent routines to maintain attention."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Female",
+        "cumulativeScore": "8",
+        "category": "attention",
+        "activityName": "Community Engagement",
+        "activityDescSmall": "Join events",
+        "activityDescLarge": "Participate in community activities to improve focus."
+    },
+    {
+        "age-group": "0-6",
+        "gender": "Male",
+        "cumulativeScore": "0",
+        "category": "puzzleSolving",
+        "activityName": "Simple Logic Games",
+        "activityDescSmall": "Play basic logic games",
+        "activityDescLarge": "Introduce simple games to develop problem-solving skills."
+    },
+    {
+        "age-group": "0-6",
+        "gender": "Female",
+        "cumulativeScore": "0",
+        "category": "puzzleSolving",
+        "activityName": "Puzzle Solving",
+        "activityDescSmall": "Solve age-appropriate puzzles",
+        "activityDescLarge": "Use puzzles to enhance cognitive development."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Male",
+        "cumulativeScore": "1",
+        "category": "puzzleSolving",
+        "activityName": "STEM Activities",
+        "activityDescSmall": "Engage in STEM",
+        "activityDescLarge": "Participate in basic STEM projects to boost problem-solving."
+    },
+    {
+        "age-group": "6-12",
+        "gender": "Female",
+        "cumulativeScore": "1",
+        "category": "puzzleSolving",
+        "activityName": "Collaborative Projects",
+        "activityDescSmall": "Work in teams",
+        "activityDescLarge": "Collaborate on projects to improve problem-solving."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Male",
+        "cumulativeScore": "2",
+        "category": "puzzleSolving",
+        "activityName": "Strategy Games",
+        "activityDescSmall": "Play strategic games",
+        "activityDescLarge": "Engage in games like chess to enhance analytical skills."
+    },
+    {
+        "age-group": "12-18",
+        "gender": "Female",
+        "cumulativeScore": "2",
+        "category": "puzzleSolving",
+        "activityName": "Creative Writing",
+        "activityDescSmall": "Write creatively",
+        "activityDescLarge": "Encourage writing to develop problem-solving abilities."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Male",
+        "cumulativeScore": "3",
+        "category": "puzzleSolving",
+        "activityName": "Project Planning",
+        "activityDescSmall": "Plan complex tasks",
+        "activityDescLarge": "Work on projects requiring strategic planning."
+    },
+    {
+        "age-group": "18-24",
+        "gender": "Female",
+        "cumulativeScore": "3",
+        "category": "puzzleSolving",
+        "activityName": "Team Challenges",
+        "activityDescSmall": "Join team activities",
+        "activityDescLarge": "Participate in collaborative challenges to improve skills."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Male",
+        "cumulativeScore": "4",
+        "category": "puzzleSolving",
+        "activityName": "Analytical Techniques",
+        "activityDescSmall": "Use analytical methods",
+        "activityDescLarge": "Apply techniques like SWOT analysis for problem-solving."
+    },
+    {
+        "age-group": "24-30",
+        "gender": "Female",
+        "cumulativeScore": "4",
+        "category": "puzzleSolving",
+        "activityName": "Group Discussions",
+        "activityDescSmall": "Engage in discussions",
+        "activityDescLarge": "Collaborate to develop solutions in groups."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Male",
+        "cumulativeScore": "5",
+        "category": "puzzleSolving",
+        "activityName": "Leadership Roles",
+        "activityDescSmall": "Lead initiatives",
+        "activityDescLarge": "Assume leadership in projects to enhance problem-solving."
+    },
+    {
+        "age-group": "30-36",
+        "gender": "Female",
+        "cumulativeScore": "5",
+        "category": "puzzleSolving",
+        "activityName": "Skill Workshops",
+        "activityDescSmall": "Attend workshops",
+        "activityDescLarge": "Participate in workshops focused on problem-solving."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Male",
+        "cumulativeScore": "6",
+        "category": "puzzleSolving",
+        "activityName": "Mentorship",
+        "activityDescSmall": "Mentor others",
+        "activityDescLarge": "Guide others to improve adaptive problem-solving skills."
+    },
+    {
+        "age-group": "36-42",
+        "gender": "Female",
+        "cumulativeScore": "6",
+        "category": "puzzleSolving",
+        "activityName": "Community Service",
+        "activityDescSmall": "Volunteer services",
+        "activityDescLarge": "Engage in community work that requires problem-solving."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Male",
+        "cumulativeScore": "7",
+        "category": "puzzleSolving",
+        "activityName": "Brain Challenges",
+        "activityDescSmall": "Tackle brain teasers",
+        "activityDescLarge": "Challenge yourself with complex puzzles."
+    },
+    {
+        "age-group": "42-48",
+        "gender": "Female",
+        "cumulativeScore": "7",
+        "category": "puzzleSolving",
+        "activityName": "New Hobbies",
+        "activityDescSmall": "Learn new crafts",
+        "activityDescLarge": "Pick up hobbies that involve problem-solving."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Male",
+        "cumulativeScore": "8",
+        "category": "puzzleSolving",
+        "activityName": "Advanced Learning",
+        "activityDescSmall": "Take advanced courses",
+        "activityDescLarge": "Enroll in courses to maintain cognitive flexibility."
+    },
+    {
+        "age-group": "48-54",
+        "gender": "Female",
+        "cumulativeScore": "8",
+        "category": "puzzleSolving",
+        "activityName": "Advisory Roles",
+        "activityDescSmall": "Provide guidance",
+        "activityDescLarge": "Offer advice in professional or community settings."
+    }
+]

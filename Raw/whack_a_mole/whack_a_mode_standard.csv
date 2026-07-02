@@ -1,0 +1,110 @@
+Male 
+18-24:
+Metric,Value
+Mean Score,17.5
+Std Score,1.7094242152084378
+Avg Z-Score Score,3.640075490574284e-18
+Mean Misses,2.5
+Std Misses,1.7094242152084378
+Avg Z-Score Misses,-3.640075490574284e-18
+Mean Total Response Time (s),19.91639344262295
+Std Total Response Time (s),2.913179792072677
+Avg Z-Score Total Response Time (s),-3.640075490574284e-18
+
+
+Male 
+25-34:
+Metric,Value
+Mean Score,15.706766917293233
+Std Score,1.7887785343414013
+Avg Z-Score Score,-1.8698493046318425e-16
+Mean Misses,4.293233082706767
+Std Misses,1.7887785343414013
+Avg Z-Score Misses,1.8698493046318425e-16
+Mean Total Response Time (s),24.742857142857144
+Std Total Response Time (s),2.8353113291092558
+Avg Z-Score Total Response Time (s),-3.4725772800305646e-16
+
+
+Male 
+35-44:
+Metric,Value
+Mean Score,12.53125
+Std Score,1.722722681542215
+Avg Z-Score Score,6.938893903907228e-18
+Mean Misses,7.46875
+Std Misses,1.722722681542215
+Avg Z-Score Misses,-6.938893903907228e-18
+Mean Total Response Time (s),30.04140625
+Std Total Response Time (s),2.738171360134522
+Avg Z-Score Total Response Time (s),-4.649058915617843e-16
+
+
+Male 
+45-54:
+Metric,Value
+Mean Score,9.40983606557377
+Std Score,1.6730951897931898
+Avg Z-Score Score,-1.3650283089653564e-16
+Mean Misses,10.59016393442623
+Std Misses,1.6730951897931898
+Avg Z-Score Misses,1.3650283089653564e-16
+Mean Total Response Time (s),34.845081967213105
+Std Total Response Time (s),2.8769890470573456
+Avg Z-Score Total Response Time (s),3.450791565064421e-15
+
+
+Female 
+18-24:
+Metric,Value
+Mean Score,17.279411764705884
+Std Score,1.6833578857825502
+Avg Z-Score Score,-9.79608551139844e-16
+Mean Misses,2.7205882352941178
+Std Misses,1.6833578857825502
+Avg Z-Score Misses,-9.79608551139844e-17
+Mean Total Response Time (s),19.610294117647058
+Std Total Response Time (s),2.9898671869913804
+Avg Z-Score Total Response Time (s),2.7755575615628914e-16
+
+
+Female 
+25-34:
+Metric,Value
+Mean Score,15.423423423423424
+Std Score,1.7008188253216334
+Avg Z-Score Score,-3.6407313600320447e-16
+Mean Misses,4.576576576576577
+Std Misses,1.7008188253216334
+Avg Z-Score Misses,-2.0404098830948824e-16
+Mean Total Response Time (s),25.205405405405408
+Std Total Response Time (s),2.9815600801127813
+Avg Z-Score Total Response Time (s),-7.651537061605809e-16
+
+
+Female 
+35-44:
+Metric,Value
+Mean Score,12.28099173553719
+Std Score,1.7871124523339517
+Avg Z-Score Score,-1.9222456500741346e-16
+Mean Misses,7.7190082644628095
+Std Misses,1.7871124523339517
+Avg Z-Score Misses,1.9222456500741346e-16
+Mean Total Response Time (s),30.349586776859507
+Std Total Response Time (s),3.0777292253573147
+Avg Z-Score Total Response Time (s),-9.21209848531948e-16
+
+
+Female 
+45-54:
+Metric,Value
+Mean Score,9.472440944881889
+Std Score,1.7106740931023963
+Avg Z-Score Score,4.641956110834316e-16
+Mean Misses,10.527559055118111
+Std Misses,1.7106740931023963
+Avg Z-Score Misses,-4.641956110834316e-16
+Mean Total Response Time (s),34.71338582677165
+Std Total Response Time (s),2.734508613092069
+Avg Z-Score Total Response Time (s),1.5658952699683556e-15
