@@ -82,11 +82,3 @@ Complete cognitive exercises tailored to your goals.
 Track your progress and receive personalized recommendations, including games, activities and even customized plans. Try maintaining MindMeld's daily streaks, and you will be maintaining better cognitive health.
 
 We hope MindMeld helps you on your journey to better cognitive health!
-
-## Credits
-
-- Ashish (22JE0187)
-- Ashish (22JE0188)
-- Bhawani (22JE0246)
-- Nikhil (22JE0625)
-- Saransh (22JE0867)
