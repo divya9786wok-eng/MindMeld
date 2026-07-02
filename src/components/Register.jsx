@@ -16,7 +16,7 @@ const Register = () => {
         e.preventDefault();
         const toastId = toast.loading("Registering...");
         try {
-            const response = await axios.post('http://localhost:8080/api/register', {
+            const response = await axios.post('https://mindmeld-ed1j.onrender.com/api/register', {
                 email,
                 password,
                 name,
